@@ -1,0 +1,48 @@
+C:\Users\makdi\Documents\GitHub\Complexity>node analysis.js
+analysis.js
+~~~~~~~~~~~~
+ImportCount 0   Strings 0
+
+main(): 5
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+FunctionBuilder(): 31
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+FileBuilder(): 63
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+traverseWithParents(): 84
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+complexity(): 102
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+childrenLength(): 133
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+isDecision(): 153
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+functionName(): 164
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
+
+
+Crazy(): 188
+============
+SimpleCyclomaticComplexity: 0   MaxNestingDepth: 0      MaxConditions: 0        Parameters: 0
